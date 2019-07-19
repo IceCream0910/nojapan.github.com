@@ -3009,7 +3009,7 @@ ul {
     height: 880px;
     position: relative;
     overflow: hidden;
-    background-image: url(../img/nojpanicon.jpg);
+    background-image: url(../img/20190719_135909_0000.png);
     background-repeat: no-repeat;
     background-size: 68%;
     background-position: top right;
@@ -3298,11 +3298,11 @@ ul {
 
 .banner_part:after {
     position: absolute;
-    top: 163px;
-    width: 41%;
-    height: 69%;
+    top: 120px;
+    width: 74%;
+    height: 73%;
     content: "";
-    background-image: url(../img/nojpanicon.jpg);
+    background-image: url(../img/20190719_135909_0000.png);
     background-size: 100% 100%;
     right: 9%;
 }
@@ -3311,11 +3311,11 @@ ul {
     /* line 164, E:/172 Etrain Education/172_Etrain_Education_html/sass/_banner.scss */
     .banner_part:after {
         position: absolute;
-        top: 150px;
+        top: 120px;
         max-width: 100%;
-        max-height: 100%;
+        max-height: 50%;
         content: "";
-        background-image: url(../img/nojpanicon.jpg);
+        background-image: url(../img/20190719_135909_0000.png);
         background-size: contain;
         right: 0;
         left: 0;
@@ -3331,9 +3331,9 @@ ul {
         position: absolute;
         top: 110px;
         max-width: 100%;
-        max-height: 100%;
+        max-height: 50%;
         content: "";
-        background-image: url(../img/nojpanicon.jpg);
+        background-image: url(../img/20190719_135909_0000.png);
         background-size: contain;
         right: 0;
         left: 0;
@@ -3349,9 +3349,9 @@ ul {
         position: absolute;
         top: 110px;
         max-width: 100%;
-        max-height: 100%;
+        max-height: 50%;
         content: "";
-        background-image: url(../img/nojpanicon.jpg);
+        background-image: url(../img/20190719_135909_0000.png);
         background-size: contain;
         right: 0;
         left: 0;
@@ -3366,9 +3366,9 @@ ul {
     .banner_part:after {
         position: absolute;
         max-width: 100%;
-        max-height: 100%;
+        max-height: 50%;
         content: "";
-        background-image: url(../img/nojpanicon.jpg);
+        background-image: url(../img/20190719_135909_0000.png);
         background-size: contain;
         right: 5%;
         bottom: 0;
