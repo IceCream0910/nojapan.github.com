@@ -3011,8 +3011,8 @@ ul {
     overflow: hidden;
     background-image: url(../img/20190719_135909_0000.png);
     background-repeat: no-repeat;
-    background-size: 68%;
-    background-position: top right;
+    background-size: 40%;
+    background-position: center right;
 }
 
 @media (max-width: 576px) {
@@ -3303,6 +3303,7 @@ ul {
     height: 73%;
     content: "";
     background-image: url(../img/20190719_135909_0000.png);
+    background-image: none;
     background-size: 100% 100%;
     right: 9%;
 }
