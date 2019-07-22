@@ -3297,10 +3297,10 @@ ul {
 /* line 164, E:/172 Etrain Education/172_Etrain_Education_html/sass/_banner.scss */
 
 .banner_part:after {
-    position: absolute;
+    position: center;
     top: 120px;
-    width: 74%;
-    height: 73%;
+    width: 70%;
+    height: 70%;
     content: "";
     background-image: url(../img/20190719_135909_0000.png);
     background-image: none;
