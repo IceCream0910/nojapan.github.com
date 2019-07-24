@@ -27,6 +27,22 @@
 </head>
 
 <body>
+    <div id="noticebar" style="width:100%; position:fixed; bottom: 0px; left:0px; z-index:10000000;">
+        <div style="height:40px; background-color:#0c2e60; width:100%;">
+            <!--고정높이 지정-->
+            <marquee direction="left" style="width:85%;"><a style="font-size:17px; margin:20px; color:white; ">업데이트 방식으로 불편을 드려 죄송합니다. 최신버전에서 개선하였습니다.</a></marquee>
+            <a href="#" onclick="noticebar_exit()" style="font-size:17px; margin:20px; color:white; width:15%;">X</a>
+        </div>
+    </div>
+    <div style="height:100px;">
+        <!--상단고정높이만큼 높이를 지정-->
+    </div>
+</head>
+<script>
+    function noticebar_exit() {
+        document.getElementById("noticebar").style.display = "none";
+    }
+</script>
     <!--::header part start::-->
     <header class="main_menu home_menu">
         <div class="container">
